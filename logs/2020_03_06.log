@@ -1,0 +1,6 @@
+[2020-03-06 21:27:28,383] - logger.py[line:29] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:27:28,843] - logger.py[line:29] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:27:29,107] - logger.py[line:29] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:27:29,109] - logger.py[line:29] - fuc:__console- INFO: ËÑË÷³É¹¦£¡
+[2020-03-06 21:27:31,111] - logger.py[line:29] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:27:33,558] - logger.py[line:29] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots

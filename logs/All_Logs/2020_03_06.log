@@ -1,0 +1,67 @@
+[2020-03-06 21:06:04,361] - logger.py[line:28] - fuc:__console- INFO: 开始测试
+[2020-03-06 21:06:32,127] - logger.py[line:28] - fuc:__console- INFO: ------打开百度-------
+[2020-03-06 21:06:35,525] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:07:46,946] - logger.py[line:28] - fuc:__console- INFO: ------打开百度-------
+[2020-03-06 21:07:50,334] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:09:20,322] - logger.py[line:28] - fuc:__console- INFO: ------打开百度-------
+[2020-03-06 21:09:23,349] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:09:23,784] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:11:08,336] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:11:08,705] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:11:08,993] - logger.py[line:28] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:11:08,994] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:11:10,996] - logger.py[line:28] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:11:13,507] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 21:15:00,880] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:15:01,396] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:15:01,670] - logger.py[line:28] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:15:01,671] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:15:03,673] - logger.py[line:28] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:15:06,117] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 21:16:39,370] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:16:39,766] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:16:40,027] - logger.py[line:28] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:16:40,028] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:16:42,030] - logger.py[line:28] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:16:44,455] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 21:18:46,841] - logger.py[line:29] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:18:47,259] - logger.py[line:29] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:18:47,549] - logger.py[line:29] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:18:47,552] - logger.py[line:29] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:18:49,554] - logger.py[line:29] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:18:52,067] - logger.py[line:29] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 21:29:12,645] - logger.py[line:29] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:29:13,087] - logger.py[line:29] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:29:13,380] - logger.py[line:29] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:29:13,381] - logger.py[line:29] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:29:15,384] - logger.py[line:29] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:29:17,833] - logger.py[line:29] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 21:30:37,400] - logger.py[line:29] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 21:30:37,805] - logger.py[line:29] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 21:30:38,045] - logger.py[line:29] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 21:30:38,047] - logger.py[line:29] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 21:30:40,050] - logger.py[line:29] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 21:30:42,571] - logger.py[line:29] - fuc:__console- INFO: Had take screenshot and save to folder : /screenshots
+[2020-03-06 23:38:51,791] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:41:34,827] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:46:15,645] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:47:15,830] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:48:03,887] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:49:43,888] - logger.py[line:28] - fuc:__console- INFO: wait for 5 seconds.
+[2020-03-06 23:49:44,281] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 23:49:44,283] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-06 23:49:44,537] - logger.py[line:28] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 23:49:44,539] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 23:49:46,540] - logger.py[line:28] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 23:49:49,163] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-06 23:53:10,478] - logger.py[line:28] - fuc:__console- INFO: wait for 10 seconds.
+[2020-03-06 23:53:10,858] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 23:53:10,860] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-06 23:53:11,103] - logger.py[line:28] - fuc:__console- INFO: The element '' was clicked.
+[2020-03-06 23:53:11,105] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-06 23:53:13,106] - logger.py[line:28] - fuc:__console- INFO: Sleep for 2 seconds
+[2020-03-06 23:53:15,608] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-06 23:59:55,489] - logger.py[line:28] - fuc:__console- INFO: wait for 10 seconds.
+[2020-03-06 23:59:55,845] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-06 23:59:55,847] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-06 23:59:55,848] - logger.py[line:28] - fuc:__console- INFO: wait for 10 seconds.

@@ -1,0 +1,59 @@
+[2020-03-09 11:12:17,504] - logger.py[line:28] - fuc:__console- INFO: 等待 20 秒.
+[2020-03-09 11:12:17,728] - logger.py[line:28] - fuc:__console- INFO: 等待 10 秒.
+[2020-03-09 11:12:18,541] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-09 11:12:18,543] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-09 11:12:18,577] - logger.py[line:28] - fuc:__console- INFO: 等待 10 秒.
+[2020-03-09 11:12:18,927] - logger.py[line:28] - fuc:__console- INFO: 当前元素  被点击.
+[2020-03-09 11:12:18,928] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-09 11:12:36,883] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-09 11:12:36,885] - logger.py[line:28] - fuc:__console- INFO: 还需等待 5秒钟退出浏览器
+[2020-03-09 11:12:37,886] - logger.py[line:28] - fuc:__console- INFO: 还需等待 4秒钟退出浏览器
+[2020-03-09 11:12:38,888] - logger.py[line:28] - fuc:__console- INFO: 还需等待 3秒钟退出浏览器
+[2020-03-09 11:12:39,890] - logger.py[line:28] - fuc:__console- INFO: 还需等待 2秒钟退出浏览器
+[2020-03-09 11:12:40,891] - logger.py[line:28] - fuc:__console- INFO: 还需等待 1秒钟退出浏览器
+[2020-03-09 11:13:43,099] - logger.py[line:28] - fuc:__console- INFO: 还需等待 5秒钟退出浏览器
+[2020-03-09 11:13:44,101] - logger.py[line:28] - fuc:__console- INFO: 还需等待 4秒钟退出浏览器
+[2020-03-09 11:13:45,103] - logger.py[line:28] - fuc:__console- INFO: 还需等待 3秒钟退出浏览器
+[2020-03-09 11:13:46,104] - logger.py[line:28] - fuc:__console- INFO: 还需等待 2秒钟退出浏览器
+[2020-03-09 11:13:47,107] - logger.py[line:28] - fuc:__console- INFO: 还需等待 1秒钟退出浏览器
+[2020-03-09 11:25:10,084] - logger.py[line:28] - fuc:__console- INFO: 等待 20 秒.
+[2020-03-09 11:25:10,137] - logger.py[line:28] - fuc:__console- INFO: 等待 10 秒.
+[2020-03-09 11:25:10,780] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-09 11:25:10,782] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-09 11:25:10,824] - logger.py[line:28] - fuc:__console- INFO: 等待 10 秒.
+[2020-03-09 11:25:11,087] - logger.py[line:28] - fuc:__console- INFO: 当前元素  被点击.
+[2020-03-09 11:25:11,088] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-09 11:25:25,540] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-09 11:25:25,542] - logger.py[line:28] - fuc:__console- INFO: 还需等待 5秒钟退出浏览器
+[2020-03-09 11:25:26,545] - logger.py[line:28] - fuc:__console- INFO: 还需等待 4秒钟退出浏览器
+[2020-03-09 11:25:27,547] - logger.py[line:28] - fuc:__console- INFO: 还需等待 3秒钟退出浏览器
+[2020-03-09 11:25:28,548] - logger.py[line:28] - fuc:__console- INFO: 还需等待 2秒钟退出浏览器
+[2020-03-09 11:25:29,550] - logger.py[line:28] - fuc:__console- INFO: 还需等待 1秒钟退出浏览器
+[2020-03-09 12:14:34,815] - logger.py[line:28] - fuc:__console- INFO: 等待了20秒.
+[2020-03-09 12:14:34,885] - logger.py[line:28] - fuc:__console- INFO: 等待了10秒.
+[2020-03-09 12:14:34,925] - logger.py[line:28] - fuc:__console- INFO: 输入内容之前清空输入框
+[2020-03-09 12:14:35,364] - logger.py[line:28] - fuc:__console- INFO: Had type ' selenium ' in inputBox
+[2020-03-09 12:14:35,366] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-09 12:14:35,403] - logger.py[line:28] - fuc:__console- INFO: 等待了10秒.
+[2020-03-09 12:14:35,680] - logger.py[line:28] - fuc:__console- INFO: 当前元素  被点击.
+[2020-03-09 12:14:35,681] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-09 12:14:50,232] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-09 12:14:50,234] - logger.py[line:28] - fuc:__console- INFO: 还需等待5秒钟退出浏览器
+[2020-03-09 12:14:51,236] - logger.py[line:28] - fuc:__console- INFO: 还需等待4秒钟退出浏览器
+[2020-03-09 12:14:52,238] - logger.py[line:28] - fuc:__console- INFO: 还需等待3秒钟退出浏览器
+[2020-03-09 12:14:53,240] - logger.py[line:28] - fuc:__console- INFO: 还需等待2秒钟退出浏览器
+[2020-03-09 12:14:54,242] - logger.py[line:28] - fuc:__console- INFO: 还需等待1秒钟退出浏览器
+[2020-03-09 12:19:12,315] - logger.py[line:28] - fuc:__console- INFO: 等待了20秒.
+[2020-03-09 12:19:12,438] - logger.py[line:28] - fuc:__console- INFO: 等待了10秒.
+[2020-03-09 12:19:12,504] - logger.py[line:28] - fuc:__console- INFO: 输入内容之前清空输入框
+[2020-03-09 12:19:13,461] - logger.py[line:28] - fuc:__console- INFO: 在输入框中输入' selenium '成功
+[2020-03-09 12:19:13,464] - logger.py[line:28] - fuc:__console- INFO: 输入成功！
+[2020-03-09 12:19:13,520] - logger.py[line:28] - fuc:__console- INFO: 等待了10秒.
+[2020-03-09 12:19:13,893] - logger.py[line:28] - fuc:__console- INFO: 当前元素  被点击.
+[2020-03-09 12:19:13,895] - logger.py[line:28] - fuc:__console- INFO: 搜索成功！
+[2020-03-09 12:19:27,533] - logger.py[line:28] - fuc:__console- INFO: Had take screenshot and save to folder : \screenshots
+[2020-03-09 12:19:27,536] - logger.py[line:28] - fuc:__console- INFO: 还需等待5秒钟退出浏览器
+[2020-03-09 12:19:28,545] - logger.py[line:28] - fuc:__console- INFO: 还需等待4秒钟退出浏览器
+[2020-03-09 12:19:29,562] - logger.py[line:28] - fuc:__console- INFO: 还需等待3秒钟退出浏览器
+[2020-03-09 12:19:30,566] - logger.py[line:28] - fuc:__console- INFO: 还需等待2秒钟退出浏览器
+[2020-03-09 12:19:31,568] - logger.py[line:28] - fuc:__console- INFO: 还需等待1秒钟退出浏览器
