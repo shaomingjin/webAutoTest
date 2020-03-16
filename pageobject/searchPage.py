@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Time : 2020/3/6 0006 下午 15:30 
+# @Time : 2020/3/13 0006 下午 15:30
 # @Author : ShaoMingJin
 import time
 from framework.base_page import BasePage

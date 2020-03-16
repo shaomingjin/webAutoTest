@@ -1,4 +1,8 @@
-# coding:utf-8
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# @Time : 2020/3/13 0007 下午 17:15
+# @Author : ShaoMingJin
+
 import logging,time,os
 # 这个是日志保存本地的路径
 log_path=os.path.dirname(os.path.abspath("."))+"\\logs\\All_Logs\\"

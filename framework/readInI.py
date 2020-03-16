@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Time : 2020/3/6 0006 下午 21:58 
+# @Time : 2020/3/14 0006 下午 21:58
 # @Author : ShaoMingJin
 import os
 from configobj import ConfigObj

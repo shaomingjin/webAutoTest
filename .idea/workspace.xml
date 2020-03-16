@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0254c446-682a-4473-b660-649a51b74af0" name="Default Changelist" comment="" />
+    <list default="true" id="0254c446-682a-4473-b660-649a51b74af0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/keyBoardUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/keyBoardUtil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/readInI.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/readInI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/swtichBrowsers.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/swtichBrowsers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobject/searchPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/searchPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/20200309111236.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/20200309112525.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/20200309121449.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/20200309121926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/view.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/银行自动取款系统.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_report/202003061843report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/baseTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/baseTestCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/searchCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/searchCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -191,6 +213,7 @@
       <workItem from="1583666013930" duration="4130000" />
       <workItem from="1583722758734" duration="11851000" />
       <workItem from="1583989509688" duration="2235000" />
+      <workItem from="1584365811833" duration="854000" />
     </task>
     <servers />
   </component>
